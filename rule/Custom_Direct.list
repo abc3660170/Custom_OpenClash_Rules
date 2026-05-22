@@ -278,8 +278,6 @@ DOMAIN-SUFFIX,meiyitou.top
 DOMAIN-SUFFIX,rayws.top
 # 社区 / add by Telegram user: 哈Lay / Date: 2025-12-29 12:54:22
 DOMAIN-SUFFIX,a0d.top
-# aicoding / add by Telegram user: Makka / Date: 2025-12-27 10:11:32
-DOMAIN-SUFFIX,anyrouter.top
 # add by Telegram user: IllIllIlIl / Date: 2026-01-05 08:54:12
 DOMAIN-SUFFIX,cmbc.run
 # add by Telegram user: hlly / Date: 2026-01-06 22:51:31
@@ -326,6 +324,18 @@ DOMAIN-SUFFIX,jsj.top
 # 以下是准备向 GeoSite 上游仓库提交 PR 的国内冷门域名，收录后会注释对应内容
 # ---------------------------------------
 # 以下域名待提交 PR
+# 米村拌饭 / add by Telegram user: along / Date: 2026-05-22 18:21:01
+DOMAIN-SUFFIX,micun.com
+# 奇妙快传 / add by Telegram user: y / Date: 2026-05-22 12:47:34
+DOMAIN-SUFFIX,share123.top
+# 视频流api / add by Telegram user: Nobody / Date: 2026-05-18 00:52:48
+DOMAIN-SUFFIX,yingshi.dog
+# 萨雷安科技——FF14游戏论坛 / add by Telegram user: cysr214 / Date: 2026-05-17 01:24:36
+DOMAIN-SUFFIX,tggfl.com
+# 中转api / add by Telegram user: 美 / Date: 2026-05-15 21:45:11
+DOMAIN-SUFFIX,code-relay.com
+# add by Telegram user: FngJia / Date: 2026-05-14 15:45:19
+DOMAIN-SUFFIX,gifpay.com
 # 某个有趣的网站 / add by Telegram user: Constas / Date: 2026-05-10 06:55:27
 DOMAIN-SUFFIX,linka2a.net
 # 企业官方域名 / add by Telegram user: Constas / Date: 2026-05-10 06:54:50

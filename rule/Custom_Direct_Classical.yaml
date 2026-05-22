@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
-# REPO: https://github.com/abc3660170/Custom_OpenClash_Rules
-# SOURCE: https://github.com/abc3660170/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 615
+# REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
+# SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
+# TOTAL: 620
 
 payload:
   - DOMAIN-KEYWORD,m-team
@@ -70,7 +70,6 @@ payload:
   - DOMAIN-SUFFIX,aloys233.top
   - DOMAIN-SUFFIX,antping.com
   - DOMAIN-SUFFIX,anycubic.com
-  - DOMAIN-SUFFIX,anyrouter.top
   - DOMAIN-SUFFIX,anytocopy.com
   - DOMAIN-SUFFIX,ap-leasing.com
   - DOMAIN-SUFFIX,api.myip.com
@@ -130,6 +129,7 @@ payload:
   - DOMAIN-SUFFIX,cn-music.mefun.vip
   - DOMAIN-SUFFIX,cnb.space
   - DOMAIN-SUFFIX,cocav.com
+  - DOMAIN-SUFFIX,code-relay.com
   - DOMAIN-SUFFIX,codeloop.top
   - DOMAIN-SUFFIX,coffee-iot.com
   - DOMAIN-SUFFIX,cone-x.com
@@ -219,6 +219,7 @@ payload:
   - DOMAIN-SUFFIX,ghproxy.cc
   - DOMAIN-SUFFIX,ghproxy.cfd
   - DOMAIN-SUFFIX,ghps.cc
+  - DOMAIN-SUFFIX,gifpay.com
   - DOMAIN-SUFFIX,giomeru.com
   - DOMAIN-SUFFIX,girigirilove.com
   - DOMAIN-SUFFIX,git.886.be
@@ -367,6 +368,7 @@ payload:
   - DOMAIN-SUFFIX,meoof-pet.com
   - DOMAIN-SUFFIX,miaotixing.com
   - DOMAIN-SUFFIX,micu.hk
+  - DOMAIN-SUFFIX,micun.com
   - DOMAIN-SUFFIX,mifeng.plus
   - DOMAIN-SUFFIX,mifon.com
   - DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
@@ -461,6 +463,7 @@ payload:
   - DOMAIN-SUFFIX,sgtv.ii00.cc
   - DOMAIN-SUFFIX,shanghai-parking.com
   - DOMAIN-SUFFIX,shanghongbei.com
+  - DOMAIN-SUFFIX,share123.top
   - DOMAIN-SUFFIX,shineacc.com
   - DOMAIN-SUFFIX,shuangqingtech.com
   - DOMAIN-SUFFIX,shuinfo.com
@@ -494,6 +497,7 @@ payload:
   - DOMAIN-SUFFIX,tcy365.net
   - DOMAIN-SUFFIX,tdrgame.top
   - DOMAIN-SUFFIX,terra-master.com
+  - DOMAIN-SUFFIX,tggfl.com
   - DOMAIN-SUFFIX,theluyuan.com
   - DOMAIN-SUFFIX,thinkerride.com
   - DOMAIN-SUFFIX,thmnet.com
@@ -580,6 +584,7 @@ payload:
   - DOMAIN-SUFFIX,ycjintou.com
   - DOMAIN-SUFFIX,ydayc.com
   - DOMAIN-SUFFIX,yicaiykt.com
+  - DOMAIN-SUFFIX,yingshi.dog
   - DOMAIN-SUFFIX,yiso.fun
   - DOMAIN-SUFFIX,yixc.com
   - DOMAIN-SUFFIX,yongyu.xyz
