@@ -189,6 +189,9 @@ DOMAIN-SUFFIX,sdk-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,zzz-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
 
+# Klei Entertainment（饥荒等游戏）
+DOMAIN-SUFFIX,klei.com
+
 # 微软模拟飞行2024
 DOMAIN-SUFFIX,sunrisecontent.akamaized.net
 
